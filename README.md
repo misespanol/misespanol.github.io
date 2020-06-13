@@ -1,0 +1,1 @@
+https://themes.gohugo.io/cupper-hugo-theme/
