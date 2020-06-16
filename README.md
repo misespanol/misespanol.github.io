@@ -1,1 +1,0 @@
-using hugo cupper theme -- https://themes.gohugo.io/cupper-hugo-theme/
